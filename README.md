@@ -1,4 +1,5 @@
 # memoona-Excel-Store-Data-analysis
+this is end to end excel project
  Vrinda Store Data Analysis Project
 Welcome to the Vrinda Store Data Analysis project! This repository contains a comprehensive analysis of sales and customer data to help Vrinda Store optimize its strategies and boost performance. Dive in to explore the insights and findings! 🚀
 
