@@ -40,9 +40,10 @@ The main goal of this project is to uncover actionable insights from the data to
 - **Excel**: For data analysis and visualization.
 - **PowerPoint**: For presenting insights and conclusions.
 
-- 🚀 Project Link
-- https://github.com/memoonanaeem/Excel-Store-Data-analysis
-- 
+ 🚀 Project Link
+ Excel-Store-Data-analysis
+https://github.com/memoonanaeem/Excel-Store-Data-analysis
+  
 
 ## 🤝 Contributing
 
