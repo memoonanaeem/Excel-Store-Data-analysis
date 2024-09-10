@@ -40,6 +40,9 @@ The main goal of this project is to uncover actionable insights from the data to
 - **Excel**: For data analysis and visualization.
 - **PowerPoint**: For presenting insights and conclusions.
 
+- 🚀 Project Link
+- 
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
